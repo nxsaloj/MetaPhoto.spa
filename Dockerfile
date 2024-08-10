@@ -12,5 +12,5 @@ RUN yarn --non-interactive
 
 COPY . .
 
-EXPOSE 8080
-ENTRYPOINT ["yarn", "serve"]
+EXPOSE 5173
+ENTRYPOINT ["sh","entrypoint.sh"]
