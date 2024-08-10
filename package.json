@@ -17,6 +17,7 @@
     "vuex": "^4.0.0"
   },
   "devDependencies": {
+    "@primevue/auto-import-resolver": "^4.0.4",
     "@primevue/themes": "^4.0.4",
     "@types/jest": "^27.0.1",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
